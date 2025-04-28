@@ -1,18 +1,18 @@
 # Reto Técnico: Procesamiento de Transacciones Bancarias (CLI)
 
 ## Introducción:
-	Este reto técnico se ha desarrollado con JavaScript (Node.js), el cual procesa un archivo CSV que contiene transacciones bancarias.
+	Este reto técnico se ha desarrollado con JavaScript (Node.js), el cual procesa un archivo CSV 
+   que contiene transacciones bancarias.
 	La aplicación genera un reporte que incluya:
 
 	La aplicación muestra el siguiente reporte final en la terminal: 
-	```
+
 	Reporte de Transacciones
 	-------------------------------------------------------
 	Balance Final: 10,985.85
 	Transacción de Mayor Monto: ID = 222  monto = 499.69
-	Conteo de Transacciones de Crédito: 508 y Débito: 492   
-	```
-
+	Conteo de Transacciones de Crédito: 508 y Débito: 492      ```
+   ```
 ## Instrucciones de ejecución
    1. Descargar la aplicación
 
