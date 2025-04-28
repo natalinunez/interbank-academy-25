@@ -1,8 +1,7 @@
 # Reto Técnico: Procesamiento de Transacciones Bancarias (CLI)
 
 ## Introducción:
-	Este reto técnico se ha desarrollado con JavaScript (Node.js), el cual procesa un archivo CSV
-   que contiene transacciones bancarias.
+	Este reto técnico se ha desarrollado con JavaScript (Node.js), el cual procesa un archivo CSV que contiene transacciones bancarias.
    
 	La aplicación muestra el siguiente reporte final en la terminal: 
    ```
