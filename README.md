@@ -2,11 +2,9 @@
 
 ## Introducción:
 	Este reto técnico se ha desarrollado con JavaScript (Node.js), el cual procesa un archivo CSV 
-   que contiene transacciones bancarias.
-	La aplicación genera un reporte que incluya:
+   que contiene transacciones bancarias.	
 
 	La aplicación muestra el siguiente reporte final en la terminal: 
-
 	Reporte de Transacciones
 	-------------------------------------------------------
 	Balance Final: 10,985.85
@@ -25,7 +23,8 @@
       node procesarCSV.js
 
 ## Enfoque y Solución
-   Para procesar el archivo CSV se usó el módulo "csv-parser", debido a que simplifica el manejo de archivos CSV, mejora el rendimiento y se entiende con claridad el código.    
+   Para procesar el archivo CSV se usó el módulo "csv-parser", debido a que simplifica el manejo de 
+   archivos CSV, mejora el rendimiento y se entiende con claridad el código.    
 
 ## Estructura del Proyecto
    - Se tiene el archivo procesarCSV.js, el cual es el que procesa todos los datos que está en el archivo data.csv.
